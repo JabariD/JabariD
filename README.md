@@ -2,7 +2,7 @@
 
 I'm Payton and I'm currently a junior in college. I like to wear many hats all the way from full stack applications to competitive programming. You can always catch me learning something new. Here's my blog https://medium.com/@JabariD and YouTube channel https://www.youtube.com/channel/UCxhUW6cZDuHg3z9SAy6Fdew.
 
-[![Payton's github stats](https://github-readme-stats.vercel.app/api?username=JabariD)](https://github.com/anuraghazra/github-readme-stats)
+[![JabariD's github stats](https://github-readme-stats.vercel.app/api?username=JabariD)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JabariD/JabariD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
