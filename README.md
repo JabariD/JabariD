@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Payton
-#### Full stack applications to competitive programming. 
 ![Full stack applications to competitive programming. ](https://avatars2.githubusercontent.com/u/52969350?s=460&u=2d32f306483c80e4cffab75ce10be5eb2f71195a&v=4)
 
 I'm Payton and I'm currently a junior in college. I like to wear many hats all the way from full stack applications to competitive programming. You can always catch me learning something new. Here's my blog https://medium.com/@JabariD.
