@@ -4,12 +4,10 @@
 I'm Payton and I'm currently a junior in college. I like to wear many hats all the way from full stack applications to competitive programming. You can always catch me learning something new. Here's my blog https://medium.com/@JabariD.
 
 ## Skills and Experience
-* C++
+* C/C++
 * Java
+* HTML/CSS/JS
 * React
-* JS
-* HTML
-* CSS
 * OOP
 * SQL
 
