@@ -10,7 +10,7 @@ I'm Payton and I'm currently a senior in college. I like to wear many hats all t
 * OOP
 * SQL
 
-## Notable Projects to Include
+## Notable Projects
 See pinned for now :)
 
 
