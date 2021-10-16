@@ -10,6 +10,9 @@ I'm Payton and I'm currently a senior in college. I like to wear many hats all t
 * OOP
 * SQL
 
+[![Payton's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabarid)](https://github.com/jabarid/github-readme-stats)
+
+
 ## Notable Projects
 See pinned for now :)
 
