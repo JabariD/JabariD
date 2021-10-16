@@ -4,14 +4,12 @@
 I'm Payton and I'm currently a senior in college. I like to wear many hats all the way from full stack applications to competitive programming. You can always catch me learning something new. Here's my blog https://medium.com/@JabariD.
 
 ## Skills and Experience
-* C/C++
-* Java
+* Languages: Java, C++, C
 * HTML/CSS/JS (React)
 * OOP
 * SQL
 
-[![Payton's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabarid)](https://github.com/jabarid/github-readme-stats)
-
+[![Payton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabarid)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Notable Projects
 See pinned for now :)
