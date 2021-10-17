@@ -1,12 +1,17 @@
 ### Hi there 👋, I'm Payton
+*Last edited: 16 Oct 2021*
 
-I'm Payton and I'm currently a Computer Science senior in college. I like to wear many hats all the way from full stack applications, backend development, mobile development, and anything software development really. You can always catch me learning something new. I sometimes gather my thoughts to write abount things that strike my fancy, check it out [here](https://medium.com/@JabariD "here").
+Howdy, I am Payton, a Computer Science senior in college. I like to wear many hats all the way from full stack applications, web/backend/mobile development, and anything software development really. You can always catch me learning something new. I sometimes gather my thoughts to write abount things that strike my fancy, check it out [here](https://medium.com/@JabariD "here").
+- 🔭 I am currently learning the foundational principles of software engineering
+- 🌱 I am slowly getting into Mobile, ML, AI, Blockchain
+- 💬 Ask me anything about under graduate teaching, technical internships, or anything related to sports
+- 📫 Lets connect on [LinkedIn](https://www.linkedin.com/in/payton-d-78a7a2171/ "LinkedIn")!
+- ⚡ Fun fact: I once found a spider with me while showering. Lets just say only one of us made it out of there alive.
 
 ## Skills and Experience
-* Languages: Java, C++, C
-* HTML/CSS/JS (React)
-* OOP
-* SQL
+* Languages: Java, C++, C, Python, HTML/CSS/JavaScript (React)
+* Technologies: Git, SQL, Protocol Buffers
+* Other: OOP, Client-Server Architecture, MapReduce, Database Systems, Functional
 
 [![Payton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabarid&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
