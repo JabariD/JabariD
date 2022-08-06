@@ -1,7 +1,4 @@
-### Hi there 👋, I'm Payton
-*Last edited: 15 Feb 2022*
-
-Howdy, I am Payton, a senior Computer Science major @ Howard University. My bread and butter is building/working on large-scale backend software engineering systems. But I also like to wear many hats all the way from full stack applications, web/backend/mobile development, crypto, AI and anything software development really.
+### I work on mapping the world and ingesting your reviews, business hours openings, and missing places and integrating them into maps at Google in Mountain View. I have previously worked in Java and C++. I prefer work on building highly scalable backend systems that support millions of users.
 
 You can always catch me learning something new. I sometimes gather my thoughts to write abount things that strike my fancy, check it out [here](https://medium.com/@JabariD "here").
 - 🔭 I am currently learning the foundational principles of software engineering
